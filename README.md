@@ -1,17 +1,22 @@
 # comp163-personal-portfolio-
 git add [username]_assignment_3.py
 git commit -m "Initial portfolio with test data from Part 1"
+
+git commit -m "Update personal information with real data"
+
 full_name = "Isaiah Coleman"
 student_email = "ilcoleman@ncat.aggies.edu"
 hometown = "Charlotte, NC"
 graduation_semester = "Spring 2028"
 major = "Computer Science"
 
+git commit -m "Add real academic data and course information"
 current_courses = ["COMP 163", "MATH 131", "ENG 101", "HIS 105"]
 completed_courses = [ "Biology", "Chemistry", "Spanish II", "World History" ]
 credit_hours = [ 3, 3, 3, 3 ]
 gpa_history = [3.2, 3.6, 3.4, 3.7]
 
+git commit -m "Add personal budget and contact information"
 emergency_contact = ("Mom", "Jamie Coleman", "704-555-0199" )
 home_address = ("1610 Oak Street", "Charlotte", "NC", "28202")
 instagram_info = ("Instagram", "2cool4you", 312 )
